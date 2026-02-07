@@ -72,4 +72,4 @@ wss.on("connection", (ws) => {
   });
 });
 
-console.log("✅ KeyChat WebSocket server running on ws://localhost:8080");
+console.log("https://keychat-backend.onrender.com");
